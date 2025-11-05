@@ -1,4 +1,4 @@
-# Nenavath Nagendra Naik
+# Nenavath Nagendra
 **Software Developer | Python Expert | Automation Testing Eng**  
 - Mbile: +91 9000723703
 - Email: nnagendranaik2001@gmail.com
