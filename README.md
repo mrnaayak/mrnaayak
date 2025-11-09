@@ -1,5 +1,5 @@
 # Nenavath Nagendra Naik
-**Software Developer | Python Expert | Automation Testing Eng**  
+**Admin & Developer | Python | Automation Testing | Selenium | APEX | HTML, CSS, JS, MySQL**  
 - Mbile: +91 9000723703
 - Email: nnagendranaik2001@gmail.com
 - 📍 Kurnool, Andhra Pradesh, India -518380
