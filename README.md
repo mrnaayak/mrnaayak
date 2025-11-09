@@ -41,7 +41,6 @@ I'm a recent **B.Tech (CSE) graduate** with expertise in **full-stack developmen
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  /> MongoDB
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  /> Postgresql
 </div>
 
 ### 
