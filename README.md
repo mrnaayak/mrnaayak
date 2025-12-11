@@ -1,8 +1,19 @@
+###
 # Nenavath Nagendra Naik
 **Admin & Developer | Python | Automation Testing | Selenium | APEX | HTML, CSS, JS, MySQL**  
 - Mbile: +91 9000723703
 - Email: nnagendranaik2001@gmail.com
 - 📍 Kurnool, Andhra Pradesh, India -518380
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/nnagendranaik/" target="blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo" />
+    
+  </a>
+  <a href="nnagendranaik2001@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="35" alt="gmail logo" />
+  </a>
+</div>
 
 ---
 
@@ -14,24 +25,22 @@ I'm a recent **B.Tech (CSE) graduate** with expertise in **full-stack developmen
 ## 🛠️ Technical Skills  
 
 ###
-### **Frontend**  
+### **Technologies**  
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="50" alt="salesforce logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  /> Python
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  /> HTML
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  /> CSS
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  /> Javascript
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  /> Bootstrap
 </div>
 
 ###
-### **Backend**  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  /> Python
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  /> Django
-</div>
+
 
 ###
 
@@ -52,8 +61,8 @@ I'm a recent **B.Tech (CSE) graduate** with expertise in **full-stack developmen
 </div>
 
 ###
-API Testing  
-### **Tools & Platforms**  
+
+### **Developer Tools**  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  /> VS Code
   <img width="15" />
@@ -103,9 +112,11 @@ API Testing
 
 ## 📚 Education  
 - **B.Tech (CSE)**  
-  Rayalaseema University College of Engineering, Kurnool (2020–2024)  
+  Rayalaseema University College of Engineering, Kurnool, Andhra Pradesh (2020–2024)  
 - **Intermediate (MPC)**  
-  APSWER Res. Sch/Jr College, Jupadubanglow (2017–2019)  
+  APSWER Res. Sch/Jr College, Jupadubanglow, Kurnool, Andhra Pradesh (2017–2019)
+- **Secondary School**  
+  Mahatma Jyotiba Phule School, Gorantla, Kurnool, Andhra Pradesh (2011-2017)
 
 ---
 
