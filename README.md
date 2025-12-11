@@ -4,13 +4,11 @@
 - Mbile: +91 9000723703
 - Email: nnagendranaik2001@gmail.com
 - 📍 Kurnool, Andhra Pradesh, India -518380
-
 <div align="left">
-  <a href="https://www.linkedin.com/in/nnagendranaik/" target="blank">
+  <a href="https://www.linkedin.com/in/nnagendranaik/" target="blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo" />
-    
   </a>
-  <a href="nnagendranaik2001@gmail.com">
+  <a href="mailto:nnagendranaik2001@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="35" alt="gmail logo" />
   </a>
 </div>
