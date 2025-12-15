@@ -25,7 +25,7 @@ I'm a recent **B.Tech (CSE) graduate** with expertise in **full-stack developmen
 ###
 ### **Technologies**  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="50" alt="salesforce logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="50" alt="salesforce logo"  /> Salesforce
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  /> Python
   <img width="15" />
