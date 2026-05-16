@@ -1,6 +1,6 @@
 ###
 # Nenavath Nagendra Naik
-**Admin & Developer | Python | Automation Testing | Selenium | APEX | HTML, CSS, JS, MySQL**  
+**Salesforce Developer | CRM | LWC | Apex | SOQL & SOSL | Automation Tools | Data Modeling & Management | Security & Access | Reports & Dashboards | UI Customization | Python, HTML, CSS & JavaScript | Automation Testing | Selenium| MySQL**  
 - Mbile: +91 9000723703
 - Email: nnagendranaik2001@gmail.com
 - 📍 Kurnool, Andhra Pradesh, India -518380
